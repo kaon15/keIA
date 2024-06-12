@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Quem ganhou o prêmio de Melhor em Campo na final da Copa do Mundo de 2014?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Lionel Messi",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Bastian Schweinsteiger",
                 afirmacao: "afirmação"
             }
         ]
