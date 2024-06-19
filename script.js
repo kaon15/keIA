@@ -10,24 +10,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Lionel Messi",
-                afirmacao: "afirmação"
+                afirmacao: "por que ele foi o melhor jogador em campo"
             },
             {
                 texto: "Bastian Schweinsteiger",
-                afirmacao: "afirmação"
+                afirmacao: "ele nao foi o melhor em campo"
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Como é conhecido o clássico de maior rivalidade no Rio de Janeiro?",
         alternativas: [
             {
                 texto: "FLA - FLU",
-                afirmacao: "afirmação"
+                afirmacao: "isso mesmo"
             },
             {
                 texto: "Dérbi",
-                afirmacao: "afirmação"
+                afirmacao: "ta maluco parceiro"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Real Madrid (Espanha)",
-                afirmacao: "afirmação"
+                afirmacao: "15 champions na conta"
             },
             {
                 texto: "Barcelona (Espanha)",
-                afirmacao: "afirmação"
+                afirmacao: "segundo melhor time espanhol"
             }
         ]
     },
@@ -48,12 +48,12 @@ const perguntas = [
         enunciado: "Qual foi o único jogador brasileiro que ganhou o prêmio de gol mais bonito da FIFA?",
         alternativas: [
             {
-                texto: "Ronaldo Fenômeno",
-                afirmacao: "afirmação"
+                texto: " Neymar",
+                afirmacao: "melhor do Basil atualmente"
             },
             {
                 texto: "Messi",
-                afirmacao: "afirmação"
+                afirmacao: "é argentino"
             }
         ]
     },
@@ -61,12 +61,12 @@ const perguntas = [
         enunciado: "Qual é o time brasileiro considerado o pior time do mundo?",
         alternativas: [
             {
-                texto: "Íbis",
-                afirmacao: "afirmação"
+                texto: "Birigui",
+                afirmacao: "simplesmente o pior"
             },
             {
                 texto: "Americano",
-                afirmacao: "afirmação"
+                afirmacao: "tão ruim que nem conheço"
             }
         ]
     },
